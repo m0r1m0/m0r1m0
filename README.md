@@ -1,3 +1,3 @@
-[![m0r1m0's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0r1m0)](https://github.com/m0r1m0/github-readme-stats)
+[![m0r1m0's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0r1m0&theme=nightowl&show_icons=true)](https://github.com/m0r1m0/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0r1m0&layout=compact)](https://github.com/m0r1m0/github-readme-stats)
